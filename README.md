@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/eliyagervas27/git-azure%20pipe/_apis/build/status/eliya27.ContosoAir?branchName=master)](https://dev.azure.com/eliyagervas27/git-azure%20pipe/_build/latest?definitionId=16&branchName=master)
+
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
